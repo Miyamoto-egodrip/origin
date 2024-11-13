@@ -1,1 +1,4 @@
-zhopa4
+zhopa4 
+
+
+Scanner 2 =new Scanner (System.in)
